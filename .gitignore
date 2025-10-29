@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# macOS system files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# Local development files
+*.log
+*.sqlite3
+*.db
+
+# Pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MySQL SSL certificates
+*.pem
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Uvicorn reload cache
+*.pid
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Docker
+docker-compose.override.yml
+.env.docker
