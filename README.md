@@ -45,12 +45,12 @@ user-service/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Pushpajit/E-Commerece-Microservice.git
+git clone https://github.com/AshutoshPathak1765/user-service-ecomm-app-from-roadmap.sh-.git
 ```
 
 ### 2️⃣ Navigate to the User Service
 ```bash
-cd E-Commerece-Microservice/user-service
+cd user-service-ecomm-app-from-roadmap.sh-/user-service
 ```
 
 ### 3️⃣ Create and Activate Virtual Environment
